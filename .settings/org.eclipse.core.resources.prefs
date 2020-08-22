@@ -1,0 +1,15 @@
+eclipse.preferences.version=1
+encoding//src/main/java/LamdaExpressionStreamAPI/StreamAPI/StreamAPIExample.java=UTF-8
+encoding//src/main/java/LamdaExpressionStreamAPI/StreamAPI/StreamAPIObjects.java=UTF-8
+encoding//src/main/java/LamdaExpressionStreamAPI/StreamAPI/StreamApiCollector.java=UTF-8
+encoding//src/main/java/LamdaExpressionStreamAPI/StreamAPI/StreamApiDistinctAllMatchAnyMatch.java=UTF-8
+encoding//src/main/java/LamdaExpressionStreamAPI/StreamAPI/StreamApiForEachPeek.java=UTF-8
+encoding//src/main/java/LamdaExpressionStreamAPI/StreamAPI/StreamApiMap.java=UTF-8
+encoding//src/main/java/LamdaExpressionStreamAPI/StreamAPI/StreamApiMinMax.java=UTF-8
+encoding//src/main/java/LamdaExpressionStreamAPI/StreamAPI/StreamApiReduce.java=UTF-8
+encoding//src/main/java/LamdaExpressionStreamAPI/StreamAPI/StreamApiSkipAndLimit.java=UTF-8
+encoding//src/main/java/LamdaExpressionStreamAPI/StreamAPI/StreamApiSorted.java=UTF-8
+encoding//src/main/java/LamdaExpressionStreamAPI/StreamAPI/StreamApiToArrayCollect.java=UTF-8
+encoding//src/main/java/MathRandom/MathExample.java=UTF-8
+encoding//src/main/java/Multithreading/Incremenator.java=UTF-8
+encoding//src/main/java/VikaProject/Main.java=UTF-8
